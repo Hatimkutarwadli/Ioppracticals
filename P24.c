@@ -26,4 +26,5 @@ int main () {
     else {
         printf("Repeat Again");
     }
+    return 0;
 }
